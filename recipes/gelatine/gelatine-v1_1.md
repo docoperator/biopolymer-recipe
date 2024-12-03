@@ -5,9 +5,9 @@ The modified preparation process made for baits that were clear and free of air 
 
 
 ## Ingredients
-1. 1 cup cold water
-1. 1 cup vegetable glycerin
-1. 1/2 cup + 2 tbsp gelatine (depending on bloom)
+1. 1 cup (230g) cold water
+1. 1 cup (230g)  vegetable glycerin
+1. 1/2 cup + 2 tbsp gelatine (300 bloom) (depending on bloom)
 1. 6 1/2 tbsp white corn syrup
 1. 3 tbsp sugar
 1. 1/4 tsp salt
@@ -17,12 +17,14 @@ The modified preparation process made for baits that were clear and free of air 
 
 ## Directions
 1. Preheat oven to 325°F.
-1. Combine water, glycerin and corn syrup in a mixing bowl.
-1. Slowly sprinkle gelatine very lightly over the surface, stirring gently once a light film appears. Repeat this until most of the gelatine has been added and the mixture becomes a thick dough or the consistency of mashed potatoes. You could be left with about 1 to 2 tbsp of gelatine, depending on the bloom (strength) of your gelatine.
+1. Combine water, glycerin in a mixing bowl.
+1. Slowly sprinkle gelatine very lightly over the surface, stirring gently once a light film appears. Repeat this until most of the gelatine has been added and the mixture becomes a thick dough or the consistency of mashed potatoes. You could be left with about 1 to 2 tbsp of gelatine, depending on the bloom (strength) of your gelatine.  Gelatine mixture will not be completely smooth.
 1. Combine corn syrup, sugar, salt and sucralose.
 1. In a Pyrex dish, place the sugar mixture in the oven and heat until it reaches a temperature of 235°F. Stir gently only occasionally.
 1. Let sugar mixture cool to no more than 190°F then combine sugar and gelatin mixture and gently fold together until gelatin is fully melted.
 1. Add entire mixture to the oven until it reaches 190°F.
+   Note 1: If doing on stove or induction cook top bubbles occur when mixture is brought above 212 degrees.  In order to remove bubbles and ensure a smooth mixture, remove from heat, then use blow torch to "pop" the bubbles.  Ensure you don't hold the torch flame in one spot too long
+   Note 2: When adding cooler gelatine mixture to the hotter sugar mixture it will cause the sugar to jump to the hard ball stage of candy.  Either heat the gelatine mixture to 190+ before adding it, or reheat the combined sugar and gelatine mixture to 235 again until consistent.  It will foam and bubble.
 1. Add coloring and flavoring to suit.
 1. Remove the mixture from the oven and let cure in the refrigerator for 24-72 hours.
 1. After fully cured, remove from fridge and cut off any hardened froth or foam.
